@@ -12,10 +12,11 @@ namespace CSort
             Isort sortMethod = null;
             while(true)
             {
-                int[] arrData = new int[] { 7, 6, 5, 4, 3, 2, 1, 4, 8, 9, 0 };
+                //int[] arrData = new int[] { 7, 6, 5, 4, 3, 2, 1, 4, 8, 9, 0 };
+                int[] arrData = new int[] { 5, 4, 3, 4, 6 };
 
 
-                Console.WriteLine("选择排序算法(1-冒泡； 2-快速):");
+                Console.WriteLine("选择排序算法(1-冒泡； 2-快速； 3-选择；4-插入):");
                 string option = Console.ReadLine().Trim();
                 int optionInteger = 0;
                 if(int.TryParse(option, out optionInteger))

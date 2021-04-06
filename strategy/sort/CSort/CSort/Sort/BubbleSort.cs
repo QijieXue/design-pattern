@@ -14,8 +14,8 @@ namespace CSort.Sort
         //5 - 比较2次
         //6 - 比较1次
 
-        //长度为n+1的数组
-        //外层循环n次，一共比较n/2(a1+an)次
+        //长度为n的数组
+        //外层循环n-1次，一共比较n*(n-1)/2次
     /// </summary>
     public class BubbleSort : Sort, Isort
     {
