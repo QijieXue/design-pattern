@@ -1,0 +1,13 @@
+D:\code\design-pattern\sort\CSort\CSort\bin\Debug\netcoreapp3.1\CSort.exe
+D:\code\design-pattern\sort\CSort\CSort\bin\Debug\netcoreapp3.1\CSort.deps.json
+D:\code\design-pattern\sort\CSort\CSort\bin\Debug\netcoreapp3.1\CSort.runtimeconfig.json
+D:\code\design-pattern\sort\CSort\CSort\bin\Debug\netcoreapp3.1\CSort.runtimeconfig.dev.json
+D:\code\design-pattern\sort\CSort\CSort\bin\Debug\netcoreapp3.1\CSort.dll
+D:\code\design-pattern\sort\CSort\CSort\bin\Debug\netcoreapp3.1\CSort.pdb
+D:\code\design-pattern\sort\CSort\CSort\obj\Debug\netcoreapp3.1\CSort.csprojAssemblyReference.cache
+D:\code\design-pattern\sort\CSort\CSort\obj\Debug\netcoreapp3.1\CSort.AssemblyInfoInputs.cache
+D:\code\design-pattern\sort\CSort\CSort\obj\Debug\netcoreapp3.1\CSort.AssemblyInfo.cs
+D:\code\design-pattern\sort\CSort\CSort\obj\Debug\netcoreapp3.1\CSort.csproj.CoreCompileInputs.cache
+D:\code\design-pattern\sort\CSort\CSort\obj\Debug\netcoreapp3.1\CSort.dll
+D:\code\design-pattern\sort\CSort\CSort\obj\Debug\netcoreapp3.1\CSort.pdb
+D:\code\design-pattern\sort\CSort\CSort\obj\Debug\netcoreapp3.1\CSort.genruntimeconfig.cache
